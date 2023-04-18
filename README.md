@@ -1,4 +1,4 @@
-<h1 align="center"> Expository lp 🖼  </h1>
+<h1 align="center"> expository lp 🖼  </h1>
 
 💻 Project
 
